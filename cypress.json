@@ -1,0 +1,9 @@
+{
+  "ignoreTestFiles": "index.ts",
+  "integrationFolder": "src",
+  "fixturesFolder": false,
+  "supportFile": false,
+  "pluginsFile": false,
+  "watchForFileChanges": false,
+  "video": false
+}
